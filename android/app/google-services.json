@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "377714840281",
+    "project_id": "e-commtest",
+    "storage_bucket": "e-commtest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377714840281:android:0540a82421db948981e4c8",
+        "android_client_info": {
+          "package_name": "com.example.e_comm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "377714840281-9a1nnj9uso5jd5g67vfooekmvvftukgl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdtfehSUBGPLg9UsFOYsS8p1DM3Bnyrh8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "377714840281-9a1nnj9uso5jd5g67vfooekmvvftukgl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
